@@ -16,3 +16,5 @@ venv/
 .vcode/
 
 .python-version
+
+.DS_Store
